@@ -1,0 +1,24 @@
+{
+  "name": "naunynstr",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "rpi-gpio": "0.0.4",
+    "pi-gpio": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jellea/naunynstr"
+  },
+  "author": "",
+  "license": "Apache V2",
+  "bugs": {
+    "url": "https://github.com/jellea/naunynstr/issues"
+  },
+  "homepage": "https://github.com/jellea/naunynstr"
+}
